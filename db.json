@@ -1,0 +1,76 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "isAdmin": true,
+      "login": "admin",
+      "name": "Alex",
+      "password": "admin"
+    },
+    {
+      "id": 2,
+      "isAdmin": false,
+      "login": "guest",
+      "name": "Vlad",
+      "password": "guest"
+    }
+  ],
+  "news": [
+    {
+      "id": 1,
+      "title": "Apple fights $27.5 mln legal fee request in California class action - Reuters",
+      "description": "Apple Inc has asked a judge to reject a request for $27.5 million in legal fees from a law firm that represented plaintiffs in a $95 million settlement of a consumer class action lawsuit alleging deceptive AppleCare warranty practices.",
+      "url": "https://www.reuters.com/legal/litigation/apple-fights-275-mln-legal-fee-request-california-class-action-2022-02-14/",
+      "createdAt": "16.02.2022",
+      "isApproved": true
+    },
+    {
+      "id": 5,
+      "title": "iPhone maker Foxconn to make chips in India with Vedanta - Reuters",
+      "description": "iPhone maker Foxconn to make chips in India with Vedanta - Reuters",
+      "url": "https://www.reuters.com/technology/iphone-maker-foxconn-make-chips-india-with-vedanta-2022-02-14/",
+      "createdAt": "16.02.2022",
+      "isApproved": true
+    },
+    {
+      "id": 7,
+      "title": "iPhone maker Foxconn to make chips in India with Vedanta - Reuters",
+      "description": "iPhone maker Foxconn to make chips in India with Vedanta - Reuters",
+      "url": "https://www.reuters.com/technology/iphone-maker-foxconn-make-chips-india-with-vedanta-2022-02-14/",
+      "createdAt": "16.02.2022",
+      "isApproved": true
+    },
+    {
+      "id": 8,
+      "title": "iPhone maker Foxconn to make chips in India with Vedanta - Reuters",
+      "description": "iPhone maker Foxconn to make chips in India with Vedanta - Reuters",
+      "url": "https://www.reuters.com/technology/iphone-maker-foxconn-make-chips-india-with-vedanta-2022-02-14/",
+      "createdAt": "16.02.2022",
+      "isApproved": true
+    },
+    {
+      "title": "Животные",
+      "description": "Я люблю животных",
+      "createdAt": "16.02.2022",
+      "isApproved": true,
+      "url": "",
+      "id": 16
+    },
+    {
+      "title": "Ноутбуки",
+      "description": "Ноутбуки",
+      "createdAt": "17.02.2022",
+      "isApproved": true,
+      "url": "",
+      "id": 17
+    },
+    {
+      "title": "Соки",
+      "description": "Апельсиновый сок",
+      "createdAt": "17.02.2022",
+      "isApproved": true,
+      "url": "",
+      "id": 18
+    }
+  ]
+}
